@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicedecrypt",
+        "uuid": 21960805,
+        "checksum": "7y2ad"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
